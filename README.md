@@ -1,79 +1,85 @@
-                                                                           Trabajo pr·ctico n∞3 
-                                                                            ìDiagrama de flujosî
+                                                                           Trabajo pr√°ctico n¬∞3 
+                                                                            ‚ÄúDiagrama de flujos‚Äù
 
 
 Nombre: Micaela.
 Apellido: Villadeamigo.
 Legajo: 85041/3.
-Materia: TecnologÌa multimedial.
+Materia: Tecnolog√≠a multimedial.
 
-La f·bula de los tres hermanos
+La f√°bula de los tres hermanos
 J. K Rowling.
 
 Pantalla 1: 
-*DescripciÛn: Tendr· los botones de juego, crÈditos y notas de Albus Dumbledore.
-*AcciÛn: elegir uno de los botones, para ejecutar la acciÛn deseada.
+*Descripci√≥n: Tendr√° los botones de juego, y el de cr√©ditos.
+*Acci√≥n: elegir uno de los botones, para ejecutar la acci√≥n deseada.
 
 Pantalla 2:
-*DescripciÛn: Comienzan los crÈditos de la aventura gr·fica. Esta incluye una imagÈn de la tapa del libro que contiene varios cuentos cortos
-*AcciÛn: Volver a la pantalla 1.
+*Descripci√≥n: Comienzan los cr√©ditos de la aventura gr√°fica, donde aparece el nombre de la autora y el de uno de sus personajes, ya que este hizo la "traducci√≥n" de la historia.
+*Acci√≥n: Volver a la pantalla 1.
 
 Pantalla 3:
-*DescripciÛn: Leer las notas de Albus Dumbledore (director de Hogwarts, de la serie de libros Harry Potter), sobre la f·bula y las leyendas que hay sobre las reliquias de la muerte. Esta contiene una imagen de la f·bula.
-*Historia: Dumbledore da su punto de vista de la f·bula, haciendo hincapiÈ en los acontecimientos sucedidos en la historia, dando una explicaciÛn de porque no se puede escapar de la muerte, y contando un rumor, que corre por el mundo m·gico, donde m·s de un mago dice haber tenido en sus manos unas de las reliquias de la muerte.
-*AcciÛn: Volver a la pantalla 1.
+*Descripci√≥n: Introducci√≥n al inicio de la f√°bula. Se narra las acciones de los tres hermanos, en una carretera solitaria, a la hora del crep√∫sculo. Imag√©n de los hermanos, creando el puente para cruzar 
+
+el r√≠o.
+*Historia: Hab√≠a una vez tres hermanos que viajaban a la hora\ndel crep√∫sculo por una solitaria y sinuosa carretera. Los hermanos llegaron a un r√≠o demasiado profundo\npara vadearlo y demasiado 
+
+peligroso para cruzarlo a nado. Pero como los tres hombres eran muy diestros en las artes m√°gicas, no tuvieron m√°s que agitar sus varitas\ne hicieron aparecer un puente para salvar las traicioneras 
+
+aguas. Cuando se hallaban hacia la mitad del puente, una\nfigura encapuchada les cerr√≥ el paso.
+Acci√≥n: siguiente.
 
 Pantalla 4:
-*DescripciÛn: IntroducciÛn al inicio de la f·bula. Se narra las acciones de los tres hermanos, en una carretera solitaria, a la hora del crep˙sculo. ImagÈn de los hermanos.
-*Historia:Los hermanos se cruzan con un rÌo que es demasiado profundo para vadearlo y demasiado peligroso como para cruzarlo nadando. Crear un puente, ya que eran diestros en las artes m·gicas. Agitaron sus varitas e hicieron un puente. A la mitad de este, se les cruza una figura encapuchada. Era la muerte, que se encontraba enojada, debido a que la mayorÌa de los visitantes, no lograban cruzar el rÌo (se ahogaban en Èl). Pero era astuta, fingio felicidad y les ofreciÛ un premio.
-*AcciÛn: Ir a la pantalla 5 para ver los deseos.
+*Descripci√≥n: La muerte se interpone en el camino de los protaginistas. Im√°gen de la muerte con los hermanos.
+*Historia: Y la muerte les hablo.Estaba contrariada porque acababa de perder a tres posibles v√≠ctimas,ya que normalmente los viajeros se ahogaban en el r√≠o. Pero ella fue muy astuta y, fingiendo 
+
+felicitar a los tres hermanos por sus poderes m√°gicos, les dijo que cada uno ten√≠a opci√≥n de un premio por haber sido lo bastante listo para eludirla. As√≠ pues, el hermano mayor, que era un hombre 
+
+muy combativo pidi√≥ la varita m√°gica m√°s poderosa que existiera, una varita capaz de hacerle ganar todos los duelos a su propietario;en definitiva,¬°una varita digna
+*Acci√≥n: siguiente
 
 Pantalla 5:
-*DescripciÛn: los objetos que piden los hermanos. Se escriben las cualidades de uno de ellos (son de vital importancia para comprender el final de esta). Imagen de los viajeros, mirando a la muerte. ImagÈn de la muerte creando los objetos.
-*Historia: el hermano mayor, que era un hombre muy competitivo, pide la varita m·s poderosa. La muerte se la fabricÛ con la rama de un sa˙co que estaba cerca. El hermano del medio, que era muy arrogante, pide una piedra para traer de vuelta a los muertos. La muerte, sacÛ una piedra de la orilla del rÌo y le dijo, que podrÌa traer de vuelta a los difuntos. El hermano menor, era muy humilde y el m·s sensato de los tres. …l no se fiaba de dicha figura. PidiÛ un objeto, que le permitiera irse del lugar, sin ser perseguido. La muerte, de mala gana, le entregÛ su propia capa invisible.
-*AcciÛn: elegir cu·l historia seguir.
+*Descripci√≥n: Deseos del hermano mayor y el hermano mediano. Im√°gen de ellos dos con sus regalos.
+*Historia: de un mango que hab√≠a vencido a la muerte! √âsta se encamin√≥ hacia un sa√∫co que hab√≠a en la orilla del r√≠o, hizo una varita con una rama y se la entreg√≥.
+  A continuaci√≥n,el hermano mediano,que era muy arrogante quiso humillar a√∫n m√°s a la Muerte, y pidi√≥ que le concediera el poder de devolver a la vida a los muertos. La Muerte sac√≥ una piedra de 
 
-Pantalla 6:
-*DescripciÛn: historia del hermano mayor. Toma de decisiones, donde el usuario tendr· que elegir que va a pasar con Èl. Cada decisiÛn, lleva a un escenario diferente. Pero todas llevan al mismo punto.
-*Historia: con el correr del tiempo, los hermanos se separaron y eligieron su propio destino. El hermano mayor, siguiÛ viajando por semanas, hasta que llegÛ a un pueblo cercano, buscando al mago m·s poderoso del lugar. ImagÈn del hermano entrando a una taberna
-*AcciÛn: elegir si el hermano mayor, se va a enfrentar al mago.
+la orilla del r√≠o y se la entreg√≥, diciendole que la piedra tendr√° el poder de \nresucitar a los difuntos.
+*Acci√≥n: siguiente.
 
-Pantalla 7:
-*DescripciÛn: solo sucede si se acepta el combate con el mago. ImagÈn de la muerte del hermano.
-*Historia: Tras vencer al enemigo, el hermano mayor presume su varita delante de los espectadores. Esa misma noche, otro mago se acercÛ a la posada, donde se encontraba el protagonista, durmiendo en su cama (se encontraba ebrio). El intruso le roba la varita y por si acaso, le cortÛ el cuello. La muerte reclama al primer hermano.
-*AcciÛn: fin. Volver al inicio. Continuar la historia de los otros dos hermanos.
+Pantalla 6
+*Descripci√≥n: Deseo del hermano menor. Im√°gen de √©l con su regalo.
+*Historia: Por √∫ltimo, la Muerte le pregunt√≥ al hermano menor que deseaba. √âste era el m√°s humilde y tambi√©n el m√°s sensato de los tres, y no se fiaba un pelo. As√≠ que le pidi√≥ algo que le permitiera 
 
+marcharse de aquel lugar sin que ella puediera seguirlo. Y la Muerte, de mala gana, le entreg√≥ su propia capa invisible.
+*Acci√≥n: siguiente.
 
-Pantalla 8:
+Pantalla 7: 
+*Descripci√≥n: la muerte deja que los protaginistas sigan su camino. Im√°gen de los tres hermanos con sus regalos.
+*Historia: Entonces la muerte se apart√≥ y dej√≥ que los tres hermanos siguieran su camino. Y as√≠ hicieron ellos, mientras comentaban, maravillados,la aventura que acababan de vivir \ny admiraban 
 
-*DescripciÛn: solo se ejecuta si el hermano mayor, no se enfrenta al mago. ImagÈn de su huida.
-*Historia: el hermano, nota su avaricia y ambiciÛn. Por lo que decide no enfrentarse a ning˙n enemigo, al menos que sea de vida o muerte. …l, sigue viajando, intentando huir de su destino. Pero los rumores corren r·pido, por lo que fue ejecutado por un mago. La muerte reclama al primer hermano.
-*AcciÛn: Fin. Continuar la historia de los otros hermanos. 
+los regalos que les hab√≠a dado la Muerte.
+*Acci√≥n: elegir cual historia elegir.
 
+Pantalla 8: historia del hermano mayor.
+*Descripci√≥n: el hermano llega a una aldea. Im√°gen de dicho lugar.
+*Historia: A su debido tiempo,se separaron y cada uno se dirigi√≥ hacia su propio destino. El hermano mayor sigui√≥ viajando algo m√°s de una semana,al llegar a la aldea busc√≥ a un mago con el que 
 
-Pantalla 9:
+manten√≠a una grave disputa.
+Acci√≥n: eleg√≠r si enfrentarse al mago o no.
 
-*DescripciÛn: historia del hermano del medio. Toma de decisiones, donde el usuario tendr· que elegir que va a pasar con Èl. Cada decisiÛn, lleva a un escenario diferente. Pero todas llevan al mismo punto.
-*Historia: mientras suceden los acontecimientos del hermano mayor, el hermano del medio regresa a su casa. Una vez en ella, tomÛ la piedra para revivir a los muertos.
-*AcciÛn: decidir si girar la piedra o no.
+Pantalla 9: solo sucede si se enfrenta al mago
+*Descripci√≥n: Se enfrenta al mago y lo asesina. Im√°gen del enfrentamiento
+*Historia: Naturalmente, armado con la Varita de Sa√∫co, era inevitable que ganara el duelo que se produjo.Tras matar a su enemigo y dejarlo tendido en el suelo, se dirigi√≥ a una posada donde se 
+
+jact√≥ por todo lo alto de la poderosa varita m√°gica que le hab√≠a arrebatado a la Muerte,y de lo invencible que se hab√≠a vuelto gracias a ella. Esa misma noche, otro mago se acerc√≥ con sigilo mientras 
+
+el hermano mayor yac√≠a, borracho como una cuba, en su cama.
+*Acci√≥n: Siguiente.
 
 Pantalla 10:
-
-*DescripciÛn: esto solo sucede si el hermano ejecuta la piedra. ImagÈn de su suicidio.
-*Historia: el hermano del medio, gira la piedra tres veces. Se sorprende al ver a la hermosa muchacha, con la que iba a casarse antes de su temprana muerte. Pero la mujer estaba triste y distante, porque ya no pertenecÌa al mundo de los vivos y por eso sufrÌa. El hombre enloqueciÛ a causa de la desesperaciÛn y nostalgia, por lo que terminÛ quit·ndose la vida. La muerte reclama al segundo hermano.
-*AcciÛn: Continuar con la historia de alguno de los otros hermanos. Volver al principio.
-
-Pantalla 11:
-
-*DescripciÛn: solo se ejecuta si el hermano no gira la piedra. ImagÈn del rÌo.
-*Historia: el hermano del medio, tomÛ la decisiÛn de no girar la piedra, ya que recordÛ, que ninguna magia, ni milagro podÌa revivir a los difuntos, por lo que agarrÛ la piedra y la tirÛ al rÌo donde se le fue otorgada. Pero el rumor se esparciÛ por el mundo, diciendo que un mago tenÌa el poder de revivir a los muertos, por lo que todo el mundo comenzÛ a buscarlo, pero nunca lo encontraron, ni a Èl, ni a la piedra, pues se habÌa quitado la vida, en el mismo lugar donde arrojÛ el objeto. Nadie sabe porquÈ lo hizo, y asÌ fue, como la muerte reclamÛ al segundo hermano.
-*AcciÛn: Continuar la historia del hermano mayor o el hermano menor.
-
-Pantalla 12:
-
-*DescripciÛn: Historia del hermano menor. Esta no contar· con una decisiÛn, ya que es el final de la historia. ImagÈn del hermano, yendose con la muerte.
-*Historia: la muerte buscÛ al hermano menor por aÒos, pero nunca lo encontrÛ. Cuando este tuvo una edad avanzada, se quitÛ la capa y recibiÛ a la muerte como una vieja amiga.
-*AcciÛn: Fin. Continuar con la historia del hermano mayor o el hermano del medio. Volver al principio. Leer las notas de Albus Dumbledore.
+*Descripci√≥n: muerte del hermano mayor. Im√°gen simbolica del homicidio.
+*Historia: El mago le robo la varita y por si acaso, le cort√≥ el cuello. Y as√≠ fue como la Muerte se llevo al hermano mayor.
+Acci√≥n: continuar con el hermano mediano. Continuar con el hermano menor
 
 
               
